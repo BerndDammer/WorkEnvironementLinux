@@ -1,0 +1,12 @@
+.gradle
+rt
+crosslibs
+downloads
+gradle
+jdk
+jdk_nfx
+*.lst
+*.log
+*.save
+
+
